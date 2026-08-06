@@ -63,11 +63,6 @@ At the moment, I'm:
 ## GitHub activity
 
 <p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=MaedehShahcheraghi&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark_dimmed&rank_icon=github" alt="Maedeh's GitHub stats" />
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MaedehShahcheraghi&layout=compact&langs_count=8&hide_border=true&theme=github_dark_dimmed" alt="Most used languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=MaedehShahcheraghi&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
