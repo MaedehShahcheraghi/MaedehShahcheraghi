@@ -6,9 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://maedehshahcheraghi.ir">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat-square" alt="Portfolio" />
-  </a>
   <a href="https://www.linkedin.com/in/maedeh-shahcheraghi">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
